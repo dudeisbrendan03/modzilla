@@ -1,0 +1,360 @@
+{"level":"info","message":"Started bot application","timestamp":"2017-05-10T20:26:07.845Z"}
+{"level":"info","message":"Shards: 1","timestamp":"2017-05-10T20:26:08.632Z"}
+{"level":"info","message":"Shard 1/1 connected: 6 guilds, 78 users","timestamp":"2017-05-10T20:26:08.634Z"}
+{"level":"info","message":"All shards connected","timestamp":"2017-05-10T20:26:08.636Z"}
+{"level":"info","message":"Started the best Discord bot, version Dashy Connect | Modzilla 5.2 | ABCORE4\n     _\t\t\t\t\t\t\t\t\t\t ____\t\t_   \n\t/ \\__\t  _____  ___  ___  _ __ ___   ___| __ )  ___ | |_ \n   / _ \\ \\ /\\ / / _ \\/ __|/ _ \\| '_ ` _ \\ / _ \\  _ \\ / _ \\| __|\n  / ___ \\ V  V /  __/\\__ \\ (_) | | | | | |  __/ |_) | (_) | |_ \n /_/   \\_\\_/\\_/ \\___||___/\\___/|_| |_| |_|\\___|____/ \\___/ \\__|\n","timestamp":"2017-05-10T20:26:08.898Z"}
+{"level":"info","message":"Opened http web interface on 127.0.0.1:8080","timestamp":"2017-05-10T20:26:08.907Z"}
+{"level":"info","message":"Started bot application","timestamp":"2017-05-10T20:30:41.398Z"}
+{"level":"info","message":"Shards: 1","timestamp":"2017-05-10T20:30:42.146Z"}
+{"level":"info","message":"Shard 1/1 connected: 6 guilds, 78 users","timestamp":"2017-05-10T20:30:42.148Z"}
+{"level":"info","message":"All shards connected","timestamp":"2017-05-10T20:30:42.154Z"}
+{"level":"info","message":"Started the best Discord bot, version Dashy Connect | Modzilla 5.2 | ABCORE4\n     _\t\t\t\t\t\t\t\t\t\t ____\t\t_   \n\t/ \\__\t  _____  ___  ___  _ __ ___   ___| __ )  ___ | |_ \n   / _ \\ \\ /\\ / / _ \\/ __|/ _ \\| '_ ` _ \\ / _ \\  _ \\ / _ \\| __|\n  / ___ \\ V  V /  __/\\__ \\ (_) | | | | | |  __/ |_) | (_) | |_ \n /_/   \\_\\_/\\_/ \\___||___/\\___/|_| |_| |_|\\___|____/ \\___/ \\__|\n","timestamp":"2017-05-10T20:30:42.443Z"}
+{"level":"info","message":"Opened http web interface on 127.0.0.1:8080","timestamp":"2017-05-10T20:30:42.452Z"}
+{"level":"info","message":"Started bot application","timestamp":"2017-05-10T20:39:28.093Z"}
+{"level":"info","message":"Shards: 1","timestamp":"2017-05-10T20:39:28.948Z"}
+{"level":"info","message":"Shard 1/1 connected: 6 guilds, 78 users","timestamp":"2017-05-10T20:39:28.949Z"}
+{"level":"info","message":"All shards connected","timestamp":"2017-05-10T20:39:28.950Z"}
+{"level":"info","message":"Started the best Discord bot, version Dashy Connect | Modzilla 5.2 | ABCORE4\n     _\t\t\t\t\t\t\t\t\t\t ____\t\t_   \n\t/ \\__\t  _____  ___  ___  _ __ ___   ___| __ )  ___ | |_ \n   / _ \\ \\ /\\ / / _ \\/ __|/ _ \\| '_ ` _ \\ / _ \\  _ \\ / _ \\| __|\n  / ___ \\ V  V /  __/\\__ \\ (_) | | | | | |  __/ |_) | (_) | |_ \n /_/   \\_\\_/\\_/ \\___||___/\\___/|_| |_| |_|\\___|____/ \\___/ \\__|\n","timestamp":"2017-05-10T20:39:29.228Z"}
+{"level":"info","message":"Opened http web interface on 127.0.0.1:8080","timestamp":"2017-05-10T20:39:29.237Z"}
+{"svrid":"311905034457841664","chid":"311911204987600897","usrid":"234472372491517952","level":"info","message":"Treating '@Modzilla  clear' as a chatterbot prompt","timestamp":"2017-05-10T20:59:26.178Z"}
+{"svrid":"311905034457841664","chid":"311911204987600897","usrid":"234472372491517952","level":"info","message":"Treating '@Modzilla  nuke' as a chatterbot prompt","timestamp":"2017-05-10T20:59:26.768Z"}
+{"svrid":"311905034457841664","chid":"311911204987600897","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla nuke 1000000' as a command","timestamp":"2017-05-10T20:59:26.917Z"}
+{"svrid":"311905034457841664","chid":"311911204987600897","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla nuke 210000000000000' as a command","timestamp":"2017-05-10T20:59:26.933Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla debug' as a command","timestamp":"2017-05-10T21:04:17.887Z"}
+{"level":"info","message":"Started bot application","timestamp":"2017-05-11T07:25:33.387Z"}
+{"level":"info","message":"Shards: 1","timestamp":"2017-05-11T07:25:33.880Z"}
+{"level":"info","message":"Shard 1/1 connected: 6 guilds, 77 users","timestamp":"2017-05-11T07:25:33.880Z"}
+{"level":"info","message":"All shards connected","timestamp":"2017-05-11T07:25:33.881Z"}
+{"level":"info","message":"Started the best Discord bot, version Dashy Connect | Modzilla 5.2 | ABCORE4\n     _\t\t\t\t\t\t\t\t\t\t ____\t\t_   \n\t/ \\__\t  _____  ___  ___  _ __ ___   ___| __ )  ___ | |_ \n   / _ \\ \\ /\\ / / _ \\/ __|/ _ \\| '_ ` _ \\ / _ \\  _ \\ / _ \\| __|\n  / ___ \\ V  V /  __/\\__ \\ (_) | | | | | |  __/ |_) | (_) | |_ \n /_/   \\_\\_/\\_/ \\___||___/\\___/|_| |_| |_|\\___|____/ \\___/ \\__|\n","timestamp":"2017-05-11T07:25:34.195Z"}
+{"level":"info","message":"Opened http web interface on 127.0.0.1:8080","timestamp":"2017-05-11T07:25:34.211Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla' as a chatterbot prompt","timestamp":"2017-05-11T07:26:03.725Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla join server' as a command","timestamp":"2017-05-11T07:26:11.179Z"}
+{"svrid":"301143748681793536","level":"info","message":"Joined server 'The United Streetie Country'","timestamp":"2017-05-11T07:27:32.071Z"}
+{"svrid":"301143748681793536","level":"error","message":"Failed to find server data for serverMemberUpdated","timestamp":"2017-05-11T07:27:32.390Z"}
+{"usrid":"190925155596369920","level":"info","message":"Treating 'say 301143748681793536|#countrychat' as a PM command","timestamp":"2017-05-11T07:29:17.301Z"}
+{"usrid":"190925155596369920","level":"info","message":"Treating 'say 301143748681793536|#country_chat' as a PM command","timestamp":"2017-05-11T07:29:28.222Z"}
+{"svrid":"297262121220046849","chid":"306497419821056000","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla nuke 10000' as a command","timestamp":"2017-05-11T11:06:50.989Z"}
+{"level":"info","message":"Started bot application","timestamp":"2017-05-11T14:24:27.977Z"}
+{"level":"info","message":"Shards: 1","timestamp":"2017-05-11T14:25:03.769Z"}
+{"level":"info","message":"Shard 1/1 connected: 7 guilds, 193 users","timestamp":"2017-05-11T14:25:03.770Z"}
+{"level":"info","message":"All shards connected","timestamp":"2017-05-11T14:25:03.770Z"}
+{"level":"info","message":"Started the best Discord bot, version Dashy Connect | Modzilla 5.2 | ABCORE4\n     _\t\t\t\t\t\t\t\t\t\t ____\t\t_   \n\t/ \\__\t  _____  ___  ___  _ __ ___   ___| __ )  ___ | |_ \n   / _ \\ \\ /\\ / / _ \\/ __|/ _ \\| '_ ` _ \\ / _ \\  _ \\ / _ \\| __|\n  / ___ \\ V  V /  __/\\__ \\ (_) | | | | | |  __/ |_) | (_) | |_ \n /_/   \\_\\_/\\_/ \\___||___/\\___/|_| |_| |_|\\___|____/ \\___/ \\__|\n","timestamp":"2017-05-11T14:25:04.000Z"}
+{"level":"info","message":"Opened http web interface on 127.0.0.1:8080","timestamp":"2017-05-11T14:25:04.010Z"}
+{"usrid":"190925155596369920","level":"info","message":"Treating 'say 301143748681793536|#country_chat' as a PM command","timestamp":"2017-05-11T14:25:33.349Z"}
+{"usrid":"190925155596369920","level":"info","message":"Treating 'say 297262121220046849|#shitchannel' as a PM command","timestamp":"2017-05-11T14:26:18.057Z"}
+{"usrid":"190925155596369920","level":"info","message":"Treating 'say 301143748681793536|#country_chat' as a PM command","timestamp":"2017-05-11T14:33:42.659Z"}
+{"svrid":"301143748681793536","chid":"301146192879026176","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla debug dashysuite=true' as a command","timestamp":"2017-05-11T14:35:31.580Z"}
+{"svrid":"301143748681793536","chid":"301146192879026176","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla debug loadconfig=dashysuite dashysuite=true' as a command","timestamp":"2017-05-11T14:36:19.501Z"}
+{"svrid":"301143748681793536","chid":"301146192879026176","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla nuke 30' as a command","timestamp":"2017-05-11T14:37:56.909Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla warn @StreetWorld | idfk' as a command","timestamp":"2017-05-11T14:39:44.268Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla warn @StreetWorld | another one cos why not' as a command","timestamp":"2017-05-11T14:39:56.806Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla strikes @StreetWorld' as a command","timestamp":"2017-05-11T14:40:04.008Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla warn @StreetWorld | fucking former exec of microsoft' as a command","timestamp":"2017-05-11T14:41:19.268Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla warn @StreetWorld | https://www.youtube.com/watch?v=ug4c2mqlE_0' as a command","timestamp":"2017-05-11T14:42:04.007Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla warn @StreetWorld | https://www.youtube.com/watch?v=rRm0NDo1CiY' as a command","timestamp":"2017-05-11T14:42:51.191Z"}
+{"svrid":"311905034457841664","chid":"311905034457841664","usrid":"234472372491517952","level":"info","message":"Treating '@Modzilla nuke' as a command","timestamp":"2017-05-11T15:42:28.760Z"}
+{"svrid":"311905034457841664","chid":"311905034457841664","usrid":"234472372491517952","level":"warn","message":"Parameters not provided for nuke command","timestamp":"2017-05-11T15:42:28.762Z"}
+{"svrid":"311905034457841664","chid":"311905034457841664","usrid":"234472372491517952","level":"info","message":"Treating '@Modzilla nuke 100000' as a command","timestamp":"2017-05-11T15:42:55.464Z"}
+{"svrid":"311905034457841664","chid":"311905034457841664","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla debug' as a command","timestamp":"2017-05-11T15:45:11.933Z"}
+{"level":"info","message":"Started bot application","timestamp":"2017-05-11T16:22:38.675Z"}
+{"level":"info","message":"Shards: 1","timestamp":"2017-05-11T16:22:39.326Z"}
+{"level":"info","message":"Shard 1/1 connected: 7 guilds, 194 users","timestamp":"2017-05-11T16:22:39.327Z"}
+{"level":"info","message":"All shards connected","timestamp":"2017-05-11T16:22:39.328Z"}
+{"level":"info","message":"Started the best Discord bot, version Dashy Connect | Modzilla 5.2 | ABCORE4\n     _\t\t\t\t\t\t\t\t\t\t ____\t\t_   \n\t/ \\__\t  _____  ___  ___  _ __ ___   ___| __ )  ___ | |_ \n   / _ \\ \\ /\\ / / _ \\/ __|/ _ \\| '_ ` _ \\ / _ \\  _ \\ / _ \\| __|\n  / ___ \\ V  V /  __/\\__ \\ (_) | | | | | |  __/ |_) | (_) | |_ \n /_/   \\_\\_/\\_/ \\___||___/\\___/|_| |_| |_|\\___|____/ \\___/ \\__|\n","timestamp":"2017-05-11T16:22:39.612Z"}
+{"level":"info","message":"Opened http web interface on 127.0.0.1:8080","timestamp":"2017-05-11T16:22:39.623Z"}
+{"svrid":"301143748681793536","chid":"301146192879026176","usrid":"301103027182501888","level":"info","message":"Treating '@Modzilla help' as a command","timestamp":"2017-05-11T16:24:27.721Z"}
+{"svrid":"301143748681793536","chid":"301146192879026176","usrid":"301103027182501888","level":"info","message":"User 'EC420' upvoted by user 'StreetWorld on server 'The United Streetie Country'","timestamp":"2017-05-11T17:10:29.850Z"}
+{"svrid":"301143748681793536","chid":"301146192879026176","usrid":"301103027182501888","level":"info","message":"Treating '@Modzilla prefix -' as a command","timestamp":"2017-05-11T17:12:21.468Z"}
+{"svrid":"301143748681793536","chid":"301146192879026176","usrid":"301103027182501888","level":"info","message":"Treating '-nuke 100' as a command","timestamp":"2017-05-11T17:12:30.240Z"}
+{"svrid":"301143748681793536","chid":"301146192879026176","usrid":"190925155596369920","level":"info","message":"Treating '-help permissions' as a command","timestamp":"2017-05-11T17:14:26.045Z"}
+{"svrid":"301143748681793536","chid":"301146192879026176","usrid":"301103027182501888","level":"info","message":"Treating '-prefix &' as a command","timestamp":"2017-05-11T17:14:51.297Z"}
+{"svrid":"311905034457841664","chid":"311905034457841664","usrid":"234472372491517952","level":"info","message":"Treating '@Modzilla nuke 1000' as a command","timestamp":"2017-05-11T17:22:20.406Z"}
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: awesomebot.users index: _id_ dup key: { : \"160701714104582145\" }","op":{"_id":"160701714104582145","upvoted_gallery_extensions":[],"isProfilePublic":true,"profile_background_image":"http://i.imgur.com/8UIlbtg.jpg","reminders":[],"server_nicks":[],"points":1,"past_names":[],"__v":0}}
+{"svrid":"301143748681793536","chid":"301146192879026176","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla nuke all' as a chatterbot prompt","timestamp":"2017-05-11T17:24:04.061Z"}
+{"svrid":"301143748681793536","chid":"301146192879026176","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla debug nuke all' as a chatterbot prompt","timestamp":"2017-05-11T17:24:12.514Z"}
+{"svrid":"301143748681793536","chid":"301146192879026176","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla nuke 20' as a chatterbot prompt","timestamp":"2017-05-11T17:24:17.476Z"}
+{"svrid":"301143748681793536","chid":"301146192879026176","usrid":"190925155596369920","level":"info","message":"Treating '&nuke 20' as a command","timestamp":"2017-05-11T17:24:29.358Z"}
+{"svrid":"301143748681793536","chid":"301146192879026176","usrid":"190925155596369920","level":"info","message":"Treating '&nuke @dudeisbrendan03 [Verified ✔]' as a command","timestamp":"2017-05-11T17:24:33.543Z"}
+{"svrid":"301143748681793536","chid":"301146192879026176","usrid":"190925155596369920","level":"warn","message":"Invalid parameters '<@!190925155596369920>' provided for nuke command","timestamp":"2017-05-11T17:24:33.544Z"}
+{"svrid":"301143748681793536","chid":"301146192879026176","usrid":"190925155596369920","level":"info","message":"Treating '&warn @dudeisbrendan03 [Verified ✔] | aaaaaaaaaa' as a command","timestamp":"2017-05-11T17:25:51.611Z"}
+{"svrid":"301143748681793536","chid":"301146192879026176","usrid":"190925155596369920","level":"info","message":"Treating '&afk Playing hellion' as a command","timestamp":"2017-05-11T17:30:00.274Z"}
+{"usrid":"301103027182501888","level":"info","message":"Treating 'fuck you' as a chatterbot prompt","timestamp":"2017-05-11T17:51:32.565Z"}
+{"usrid":"301103027182501888","level":"info","message":"Treating 'spam' as a chatterbot prompt","timestamp":"2017-05-11T17:51:33.798Z"}
+{"usrid":"301103027182501888","level":"info","message":"Treating 'yes' as a chatterbot prompt","timestamp":"2017-05-11T17:51:38.648Z"}
+{"usrid":"301103027182501888","level":"info","message":"Treating 'wfef' as a chatterbot prompt","timestamp":"2017-05-11T17:51:47.106Z"}
+{"usrid":"301103027182501888","level":"info","message":"Treating 'ff' as a chatterbot prompt","timestamp":"2017-05-11T17:51:47.885Z"}
+{"usrid":"301103027182501888","level":"info","message":"Treating 'f' as a chatterbot prompt","timestamp":"2017-05-11T17:51:48.729Z"}
+{"usrid":"301103027182501888","level":"info","message":"Treating 'df' as a chatterbot prompt","timestamp":"2017-05-11T17:51:49.496Z"}
+{"usrid":"301103027182501888","level":"info","message":"Treating 'df' as a chatterbot prompt","timestamp":"2017-05-11T17:51:50.709Z"}
+{"usrid":"301103027182501888","level":"info","message":"Treating 'df' as a chatterbot prompt","timestamp":"2017-05-11T17:51:51.548Z"}
+{"usrid":"301103027182501888","level":"info","message":"Treating 'f' as a chatterbot prompt","timestamp":"2017-05-11T17:51:52.297Z"}
+{"usrid":"301103027182501888","level":"info","message":"Treating 'df' as a chatterbot prompt","timestamp":"2017-05-11T17:51:53.083Z"}
+{"usrid":"301103027182501888","level":"info","message":"Treating 'df' as a chatterbot prompt","timestamp":"2017-05-11T17:51:53.843Z"}
+{"usrid":"301103027182501888","level":"info","message":"Treating 'fdf' as a chatterbot prompt","timestamp":"2017-05-11T17:51:54.625Z"}
+{"usrid":"301103027182501888","level":"info","message":"Treating 'dsf' as a chatterbot prompt","timestamp":"2017-05-11T17:51:57.839Z"}
+{"usrid":"301103027182501888","level":"info","message":"Treating 'dsfds' as a chatterbot prompt","timestamp":"2017-05-11T17:51:58.574Z"}
+{"usrid":"301103027182501888","level":"info","message":"Treating 'what is the personal question?' as a chatterbot prompt","timestamp":"2017-05-11T17:52:10.226Z"}
+{"usrid":"301103027182501888","level":"info","message":"Treating 'what?' as a chatterbot prompt","timestamp":"2017-05-11T17:52:27.141Z"}
+{"svrid":"299530521996951552","chid":"299530521996951552","usrid":"234472372491517952","level":"info","message":"Treating '@Modzilla  nuke 10000' as a chatterbot prompt","timestamp":"2017-05-11T18:35:50.591Z"}
+{"svrid":"299530521996951552","chid":"299530521996951552","usrid":"234472372491517952","level":"info","message":"Treating '@Modzilla nuke 1000' as a command","timestamp":"2017-05-11T18:36:06.242Z"}
+{"svrid":"301143748681793536","chid":"301146192879026176","usrid":"190925155596369920","level":"info","message":"Treating '&afk TC:SS' as a command","timestamp":"2017-05-11T18:51:26.388Z"}
+{"svrid":"301143748681793536","chid":"301146192879026176","usrid":"219600981468512256","level":"info","message":"User 'StreetWorld' upvoted by user 'Ness on server 'The United Streetie Country'","timestamp":"2017-05-11T19:08:29.168Z"}
+{"level":"info","message":"Started bot application","timestamp":"2017-05-13T09:12:55.649Z"}
+{"level":"info","message":"Shards: 1","timestamp":"2017-05-13T09:12:56.931Z"}
+{"level":"info","message":"Shard 1/1 connected: 7 guilds, 203 users","timestamp":"2017-05-13T09:12:56.932Z"}
+{"level":"info","message":"All shards connected","timestamp":"2017-05-13T09:12:56.933Z"}
+{"level":"info","message":"Started the best Discord bot, version Dashy Connect | Modzilla 5.2 | ABCORE4\n     _\t\t\t\t\t\t\t\t\t\t ____\t\t_   \n\t/ \\__\t  _____  ___  ___  _ __ ___   ___| __ )  ___ | |_ \n   / _ \\ \\ /\\ / / _ \\/ __|/ _ \\| '_ ` _ \\ / _ \\  _ \\ / _ \\| __|\n  / ___ \\ V  V /  __/\\__ \\ (_) | | | | | |  __/ |_) | (_) | |_ \n /_/   \\_\\_/\\_/ \\___||___/\\___/|_| |_| |_|\\___|____/ \\___/ \\__|\n","timestamp":"2017-05-13T09:12:57.996Z"}
+{"level":"info","message":"Opened http web interface on 127.0.0.1:8080","timestamp":"2017-05-13T09:12:58.006Z"}
+{"message":"Failed to save server data for messageCreated { svrid: '297262121220046849' }","stack":"Error\n    at model.wrappedPointCut [as save] (G:\\TITANBOT-BACKUP\\Modzilla\\theupgrade\\GAwesomeBot-development\\node_modules\\mongoose\\lib\\services\\model\\applyHooks.js:109:29)\n    at db.servers.findOne (G:\\TITANBOT-BACKUP\\Modzilla\\theupgrade\\GAwesomeBot-development\\Events\\messageCreate.js:129:26)\n    at Query.<anonymous> (G:\\TITANBOT-BACKUP\\Modzilla\\theupgrade\\GAwesomeBot-development\\node_modules\\mongoose\\lib\\model.js:3737:16)\n    at G:\\TITANBOT-BACKUP\\Modzilla\\theupgrade\\GAwesomeBot-development\\node_modules\\kareem\\index.js:277:21\n    at G:\\TITANBOT-BACKUP\\Modzilla\\theupgrade\\GAwesomeBot-development\\node_modules\\kareem\\index.js:131:16\n    at _combinedTickCallback (internal/process/next_tick.js:73:7)\n    at process._tickDomainCallback (internal/process/next_tick.js:128:9)","name":"VersionError","level":"error","timestamp":"2017-05-13T09:13:11.833Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla im gay' as a chatterbot prompt","timestamp":"2017-05-13T09:13:24.192Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla kys' as a chatterbot prompt","timestamp":"2017-05-13T09:13:32.575Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla fuck off' as a chatterbot prompt","timestamp":"2017-05-13T09:13:40.916Z"}
+{"svrid":"301143748681793536","chid":"301146192879026176","usrid":"190925155596369920","level":"info","message":"Treating '&afk .' as a command","timestamp":"2017-05-13T09:26:05.167Z"}
+{"svrid":"301143748681793536","chid":"301146192879026176","usrid":"190925155596369920","level":"info","message":"Treating '&afk Updating PC cos of ransomeware brb 5-10mins' as a command","timestamp":"2017-05-13T09:26:41.937Z"}
+{"message":"Failed to connect to database","name":"MongoError","stack":"MongoError: failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]\n    at Pool.<anonymous> (G:\\TITANBOT-BACKUP\\Modzilla\\theupgrade\\GAwesomeBot-development\\node_modules\\mongodb-core\\lib\\topologies\\server.js:328:35)\n    at emitOne (events.js:96:13)\n    at Pool.emit (events.js:188:7)\n    at Connection.<anonymous> (G:\\TITANBOT-BACKUP\\Modzilla\\theupgrade\\GAwesomeBot-development\\node_modules\\mongodb-core\\lib\\connection\\pool.js:274:12)\n    at Connection.g (events.js:292:16)\n    at emitTwo (events.js:106:13)\n    at Connection.emit (events.js:191:7)\n    at Socket.<anonymous> (G:\\TITANBOT-BACKUP\\Modzilla\\theupgrade\\GAwesomeBot-development\\node_modules\\mongodb-core\\lib\\connection\\connection.js:177:49)\n    at Socket.g (events.js:292:16)\n    at emitOne (events.js:96:13)\n    at Socket.emit (events.js:188:7)\n    at emitErrorNT (net.js:1277:8)\n    at _combinedTickCallback (internal/process/next_tick.js:80:11)\n    at process._tickDomainCallback (internal/process/next_tick.js:128:9)","level":"error","timestamp":"2017-05-13T10:21:38.744Z"}
+{"level":"info","message":"Started bot application","timestamp":"2017-05-13T10:22:51.227Z"}
+{"level":"info","message":"Shards: 1","timestamp":"2017-05-13T10:22:51.985Z"}
+{"level":"info","message":"Shard 1/1 connected: 7 guilds, 203 users","timestamp":"2017-05-13T10:22:51.986Z"}
+{"level":"info","message":"All shards connected","timestamp":"2017-05-13T10:22:51.986Z"}
+{"level":"info","message":"Started the best Discord bot, version Dashy Connect | Modzilla 5.2 | ABCORE4\n     _\t\t\t\t\t\t\t\t\t\t ____\t\t_   \n\t/ \\__\t  _____  ___  ___  _ __ ___   ___| __ )  ___ | |_ \n   / _ \\ \\ /\\ / / _ \\/ __|/ _ \\| '_ ` _ \\ / _ \\  _ \\ / _ \\| __|\n  / ___ \\ V  V /  __/\\__ \\ (_) | | | | | |  __/ |_) | (_) | |_ \n /_/   \\_\\_/\\_/ \\___||___/\\___/|_| |_| |_|\\___|____/ \\___/ \\__|\n","timestamp":"2017-05-13T10:22:52.369Z"}
+{"level":"info","message":"Opened http web interface on 127.0.0.1:8080","timestamp":"2017-05-13T10:22:52.378Z"}
+{"level":"info","message":"Started bot application","timestamp":"2017-05-13T10:28:05.701Z"}
+{"level":"info","message":"Shards: 1","timestamp":"2017-05-13T10:28:06.244Z"}
+{"level":"info","message":"Shard 1/1 connected: 7 guilds, 203 users","timestamp":"2017-05-13T10:28:06.245Z"}
+{"level":"info","message":"All shards connected","timestamp":"2017-05-13T10:28:06.245Z"}
+{"level":"info","message":"Started the best Discord bot, version Dashy Connect | Modzilla 5.2 | ABCORE4\n     _\t\t\t\t\t\t\t\t\t\t ____\t\t_   \n\t/ \\__\t  _____  ___  ___  _ __ ___   ___| __ )  ___ | |_ \n   / _ \\ \\ /\\ / / _ \\/ __|/ _ \\| '_ ` _ \\ / _ \\  _ \\ / _ \\| __|\n  / ___ \\ V  V /  __/\\__ \\ (_) | | | | | |  __/ |_) | (_) | |_ \n /_/   \\_\\_/\\_/ \\___||___/\\___/|_| |_| |_|\\___|____/ \\___/ \\__|\n","timestamp":"2017-05-13T10:28:06.538Z"}
+{"level":"info","message":"Opened http web interface on 0.0.0.0:8080","timestamp":"2017-05-13T10:28:06.547Z"}
+{"level":"info","message":"Started bot application","timestamp":"2017-05-13T10:32:38.979Z"}
+{"level":"info","message":"Shards: 1","timestamp":"2017-05-13T10:32:39.543Z"}
+{"level":"info","message":"Shard 1/1 connected: 7 guilds, 203 users","timestamp":"2017-05-13T10:32:39.544Z"}
+{"level":"info","message":"All shards connected","timestamp":"2017-05-13T10:32:39.545Z"}
+{"level":"info","message":"Started the best Discord bot, version Dashy Connect | Modzilla 5.2 | ABCORE4\n     _\t\t\t\t\t\t\t\t\t\t ____\t\t_   \n\t/ \\__\t  _____  ___  ___  _ __ ___   ___| __ )  ___ | |_ \n   / _ \\ \\ /\\ / / _ \\/ __|/ _ \\| '_ ` _ \\ / _ \\  _ \\ / _ \\| __|\n  / ___ \\ V  V /  __/\\__ \\ (_) | | | | | |  __/ |_) | (_) | |_ \n /_/   \\_\\_/\\_/ \\___||___/\\___/|_| |_| |_|\\___|____/ \\___/ \\__|\n","timestamp":"2017-05-13T10:32:39.830Z"}
+{"level":"info","message":"Started bot application","timestamp":"2017-05-13T10:33:17.632Z"}
+{"level":"info","message":"Shards: 1","timestamp":"2017-05-13T10:33:18.143Z"}
+{"level":"info","message":"Shard 1/1 connected: 7 guilds, 203 users","timestamp":"2017-05-13T10:33:18.145Z"}
+{"level":"info","message":"All shards connected","timestamp":"2017-05-13T10:33:18.145Z"}
+{"level":"info","message":"Started the best Discord bot, version Dashy Connect | Modzilla 5.2 | ABCORE4\n     _\t\t\t\t\t\t\t\t\t\t ____\t\t_   \n\t/ \\__\t  _____  ___  ___  _ __ ___   ___| __ )  ___ | |_ \n   / _ \\ \\ /\\ / / _ \\/ __|/ _ \\| '_ ` _ \\ / _ \\  _ \\ / _ \\| __|\n  / ___ \\ V  V /  __/\\__ \\ (_) | | | | | |  __/ |_) | (_) | |_ \n /_/   \\_\\_/\\_/ \\___||___/\\___/|_| |_| |_|\\___|____/ \\___/ \\__|\n","timestamp":"2017-05-13T10:33:18.435Z"}
+{"level":"info","message":"Started bot application","timestamp":"2017-05-13T10:34:04.771Z"}
+{"level":"info","message":"Shards: 1","timestamp":"2017-05-13T10:34:05.294Z"}
+{"level":"info","message":"Shard 1/1 connected: 7 guilds, 203 users","timestamp":"2017-05-13T10:34:05.295Z"}
+{"level":"info","message":"All shards connected","timestamp":"2017-05-13T10:34:05.297Z"}
+{"level":"info","message":"Started the best Discord bot, version Dashy Connect | Modzilla 5.2 | ABCORE4\n     _\t\t\t\t\t\t\t\t\t\t ____\t\t_   \n\t/ \\__\t  _____  ___  ___  _ __ ___   ___| __ )  ___ | |_ \n   / _ \\ \\ /\\ / / _ \\/ __|/ _ \\| '_ ` _ \\ / _ \\  _ \\ / _ \\| __|\n  / ___ \\ V  V /  __/\\__ \\ (_) | | | | | |  __/ |_) | (_) | |_ \n /_/   \\_\\_/\\_/ \\___||___/\\___/|_| |_| |_|\\___|____/ \\___/ \\__|\n","timestamp":"2017-05-13T10:34:05.584Z"}
+{"level":"info","message":"Started bot application","timestamp":"2017-05-13T10:34:44.953Z"}
+{"level":"info","message":"Shards: 1","timestamp":"2017-05-13T10:34:45.537Z"}
+{"level":"info","message":"Shard 1/1 connected: 7 guilds, 203 users","timestamp":"2017-05-13T10:34:45.538Z"}
+{"level":"info","message":"All shards connected","timestamp":"2017-05-13T10:34:45.538Z"}
+{"level":"info","message":"Started the best Discord bot, version Dashy Connect | Modzilla 5.2 | ABCORE4\n     _\t\t\t\t\t\t\t\t\t\t ____\t\t_   \n\t/ \\__\t  _____  ___  ___  _ __ ___   ___| __ )  ___ | |_ \n   / _ \\ \\ /\\ / / _ \\/ __|/ _ \\| '_ ` _ \\ / _ \\  _ \\ / _ \\| __|\n  / ___ \\ V  V /  __/\\__ \\ (_) | | | | | |  __/ |_) | (_) | |_ \n /_/   \\_\\_/\\_/ \\___||___/\\___/|_| |_| |_|\\___|____/ \\___/ \\__|\n","timestamp":"2017-05-13T10:34:45.832Z"}
+{"level":"info","message":"Opened http web interface on 0.0.0.0:8080","timestamp":"2017-05-13T10:34:45.842Z"}
+{"level":"info","message":"Started bot application","timestamp":"2017-05-13T10:35:43.172Z"}
+{"level":"info","message":"Shards: 1","timestamp":"2017-05-13T10:35:43.719Z"}
+{"level":"info","message":"Shard 1/1 connected: 7 guilds, 203 users","timestamp":"2017-05-13T10:35:43.721Z"}
+{"level":"info","message":"All shards connected","timestamp":"2017-05-13T10:35:43.722Z"}
+{"level":"info","message":"Started the best Discord bot, version Dashy Connect | Modzilla 5.2 | ABCORE4\n     _\t\t\t\t\t\t\t\t\t\t ____\t\t_   \n\t/ \\__\t  _____  ___  ___  _ __ ___   ___| __ )  ___ | |_ \n   / _ \\ \\ /\\ / / _ \\/ __|/ _ \\| '_ ` _ \\ / _ \\  _ \\ / _ \\| __|\n  / ___ \\ V  V /  __/\\__ \\ (_) | | | | | |  __/ |_) | (_) | |_ \n /_/   \\_\\_/\\_/ \\___||___/\\___/|_| |_| |_|\\___|____/ \\___/ \\__|\n","timestamp":"2017-05-13T10:35:44.000Z"}
+{"level":"info","message":"Opened http web interface on 0.0.0.0:8457","timestamp":"2017-05-13T10:35:44.080Z"}
+{"level":"info","message":"Started bot application","timestamp":"2017-05-13T10:41:44.769Z"}
+{"level":"info","message":"Shards: 1","timestamp":"2017-05-13T10:41:45.330Z"}
+{"level":"info","message":"Shard 1/1 connected: 7 guilds, 203 users","timestamp":"2017-05-13T10:41:45.333Z"}
+{"level":"info","message":"All shards connected","timestamp":"2017-05-13T10:41:45.337Z"}
+{"level":"info","message":"Started the best Discord bot, version Dashy Connect | Modzilla 5.2 | ABCORE4\n     _\t\t\t\t\t\t\t\t\t\t ____\t\t_   \n\t/ \\__\t  _____  ___  ___  _ __ ___   ___| __ )  ___ | |_ \n   / _ \\ \\ /\\ / / _ \\/ __|/ _ \\| '_ ` _ \\ / _ \\  _ \\ / _ \\| __|\n  / ___ \\ V  V /  __/\\__ \\ (_) | | | | | |  __/ |_) | (_) | |_ \n /_/   \\_\\_/\\_/ \\___||___/\\___/|_| |_| |_|\\___|____/ \\___/ \\__|\n","timestamp":"2017-05-13T10:41:45.620Z"}
+{"level":"info","message":"Opened http web interface on 0.0.0.0:8080","timestamp":"2017-05-13T10:41:45.630Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla afk Bike ride bois' as a command","timestamp":"2017-05-13T10:42:17.098Z"}
+{"svrid":"301143748681793536","chid":"301146192879026176","usrid":"301103027182501888","level":"info","message":"Treating '@Modzilla LIES' as a chatterbot prompt","timestamp":"2017-05-13T15:21:10.895Z"}
+{"svrid":"301143748681793536","chid":"301146192879026176","usrid":"190925155596369920","level":"info","message":"Treating '&afk .' as a command","timestamp":"2017-05-13T16:27:53.108Z"}
+{"svrid":"301143748681793536","chid":"301146192879026176","usrid":"190925155596369920","level":"info","message":"Treating '&afk Now im back from my bike ride. I am playing six siege' as a command","timestamp":"2017-05-13T16:28:09.569Z"}
+{"svrid":"301143748681793536","chid":"301146192879026176","usrid":"190925155596369920","level":"info","message":"User 'MaybePyxis' upvoted by user 'dudeisbrendan03 on server 'The United Streetie Country'","timestamp":"2017-05-13T16:36:35.580Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla afk Playing TC:sS' as a command","timestamp":"2017-05-13T16:43:59.706Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla afk Playing TC:SS - Will respond asap' as a command","timestamp":"2017-05-13T16:45:26.717Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"301103027182501888","level":"info","message":"Treating '@Modzilla remember who can mute you 😉' as a chatterbot prompt","timestamp":"2017-05-13T16:47:39.755Z"}
+{"svrid":"301143748681793536","chid":"301146192879026176","usrid":"190925155596369920","level":"info","message":"User 'MaybePyxis' upvoted by user 'dudeisbrendan03 on server 'The United Streetie Country'","timestamp":"2017-05-13T16:48:26.311Z"}
+{"svrid":"301143748681793536","chid":"301146192879026176","usrid":"190925155596369920","level":"info","message":"User 'MaybePyxis' upvoted by user 'dudeisbrendan03 on server 'The United Streetie Country'","timestamp":"2017-05-13T16:50:28.657Z"}
+{"svrid":"301143748681793536","chid":"301146192879026176","usrid":"190925155596369920","level":"info","message":"User 'MaybePyxis' upvoted by user 'dudeisbrendan03 on server 'The United Streetie Country'","timestamp":"2017-05-13T16:50:36.308Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"301103027182501888","level":"info","message":"Treating '@Modzilla then shutup' as a chatterbot prompt","timestamp":"2017-05-13T16:51:01.742Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"301103027182501888","level":"info","message":"Treating '@Modzilla I TOLD YOU TO SHUTUP' as a chatterbot prompt","timestamp":"2017-05-13T16:51:37.323Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"User 'StreetWorld' upvoted by user 'dudeisbrendan03 on server 'Decent Server'","timestamp":"2017-05-13T16:59:18.168Z"}
+{"svrid":"267260718351515657","level":"info","message":"Left server 'West Hill School'","timestamp":"2017-05-13T18:41:16.264Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla afk .' as a command","timestamp":"2017-05-13T18:50:26.887Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla nuke 10' as a command","timestamp":"2017-05-13T19:01:47.693Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla nu#ke 10' as a chatterbot prompt","timestamp":"2017-05-13T19:25:06.102Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla nuke 11' as a command","timestamp":"2017-05-13T19:25:10.656Z"}
+{"svrid":"301143748681793536","chid":"301146192879026176","usrid":"190925155596369920","level":"info","message":"Treating '&afk .' as a command","timestamp":"2017-05-13T19:40:42.346Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"234472372491517952","level":"info","message":"Treating '@Modzilla nuke 9' as a chatterbot prompt","timestamp":"2017-05-13T19:47:23.774Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"234472372491517952","level":"info","message":"Treating '@Modzilla nuke 9000' as a chatterbot prompt","timestamp":"2017-05-13T19:47:56.983Z"}
+{"svrid":"301143748681793536","chid":"313043480312283136","usrid":"148918735628009472","level":"info","message":"User 'dudeisbrendan03' upvoted by user 'Pixelsnarfer on server 'The United Streetie Country'","timestamp":"2017-05-13T20:06:47.142Z"}
+{"svrid":"301143748681793536","chid":"313043480312283136","usrid":"190925155596369920","level":"info","message":"Treating '&nuke 10' as a command","timestamp":"2017-05-13T20:27:45.138Z"}
+{"svrid":"301143748681793536","chid":"313043480312283136","usrid":"190925155596369920","level":"info","message":"Treating '&nuke 7' as a command","timestamp":"2017-05-13T20:28:02.768Z"}
+{"svrid":"301143748681793536","chid":"313043480312283136","usrid":"198147944875032576","level":"info","message":"User 'StreetWorld' upvoted by user 'tizly on server 'The United Streetie Country'","timestamp":"2017-05-13T21:37:24.438Z"}
+{"svrid":"297262121220046849","chid":"306497419821056000","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla 9' as a chatterbot prompt","timestamp":"2017-05-13T21:38:23.386Z"}
+{"svrid":"297262121220046849","chid":"306497419821056000","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla nuke 11' as a command","timestamp":"2017-05-13T21:38:38.046Z"}
+{"svrid":"301143748681793536","chid":"313043480312283136","usrid":"190925155596369920","level":"info","message":"Treating '&warn @Windows Destroyer | Stop fucking arguing' as a command","timestamp":"2017-05-13T22:08:38.934Z"}
+{"svrid":"301143748681793536","chid":"313043480312283136","usrid":"190925155596369920","level":"info","message":"Treating '&warn @omnimeme | Stop fucking arguing' as a command","timestamp":"2017-05-13T22:08:52.811Z"}
+{"svrid":"301143748681793536","chid":"313043480312283136","usrid":"190925155596369920","level":"info","message":"Treating '&warn @omnimeme | Pissing people off (counts in the above strike)' as a command","timestamp":"2017-05-13T22:09:12.469Z"}
+{"svrid":"301143748681793536","chid":"313043480312283136","usrid":"236002091120721930","level":"info","message":"User 'dudeisbrendan03' upvoted by user 'Codefox on server 'The United Streetie Country'","timestamp":"2017-05-13T22:11:15.390Z"}
+{"usrid":"197769227069947904","level":"info","message":"Treating 'kthx' as a chatterbot prompt","timestamp":"2017-05-13T22:22:20.579Z"}
+{"level":"info","message":"Started bot application","timestamp":"2017-05-14T09:10:03.101Z"}
+{"level":"info","message":"Shards: 1","timestamp":"2017-05-14T09:10:03.616Z"}
+{"level":"info","message":"Shard 1/1 connected: 6 guilds, 193 users","timestamp":"2017-05-14T09:10:03.617Z"}
+{"level":"info","message":"All shards connected","timestamp":"2017-05-14T09:10:03.617Z"}
+{"level":"info","message":"Started the best Discord bot, version Dashy Connect | Modzilla 5.2 | ABCORE4\n     _\t\t\t\t\t\t\t\t\t\t ____\t\t_   \n\t/ \\__\t  _____  ___  ___  _ __ ___   ___| __ )  ___ | |_ \n   / _ \\ \\ /\\ / / _ \\/ __|/ _ \\| '_ ` _ \\ / _ \\  _ \\ / _ \\| __|\n  / ___ \\ V  V /  __/\\__ \\ (_) | | | | | |  __/ |_) | (_) | |_ \n /_/   \\_\\_/\\_/ \\___||___/\\___/|_| |_| |_|\\___|____/ \\___/ \\__|\n","timestamp":"2017-05-14T09:10:03.975Z"}
+{"level":"info","message":"Opened http web interface on 0.0.0.0:8080","timestamp":"2017-05-14T09:10:03.986Z"}
+{"usrid":"190925155596369920","level":"info","message":"Treating 'say 297262121220046849|#shitchannel' as a PM command","timestamp":"2017-05-14T09:12:55.985Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla nuke 11' as a command","timestamp":"2017-05-14T09:15:02.425Z"}
+{"usrid":"190925155596369920","level":"info","message":"Treating 'profile setup' as a PM command","timestamp":"2017-05-14T09:24:49.040Z"}
+{"usrid":"190925155596369920","level":"info","message":"Treating 'http://hdwallpaperia.com/wp-content/uploads/2014/01/Beautiful-Nature-Cool-Wallpaper-Computer-1024x640.jpg' as a chatterbot prompt","timestamp":"2017-05-14T09:26:38.540Z"}
+{"usrid":"190925155596369920","level":"info","message":"Treating 'profile setup' as a PM command","timestamp":"2017-05-14T09:26:52.873Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla afk Out be back in 1-2 hours' as a command","timestamp":"2017-05-14T09:30:13.103Z"}
+{"svrid":"301143748681793536","chid":"313043480312283136","usrid":"190925155596369920","level":"info","message":"Treating '&afk Out be back in 1-2 hours' as a command","timestamp":"2017-05-14T09:30:24.121Z"}
+{"svrid":"301143748681793536","chid":"313043480312283136","usrid":"190925155596369920","level":"info","message":"Treating '&nuke 5' as a command","timestamp":"2017-05-14T09:33:15.255Z"}
+{"svrid":"311905034457841664","chid":"311905034457841664","usrid":"234472372491517952","level":"info","message":"Treating '@Modzilla nuke 1000' as a command","timestamp":"2017-05-14T11:19:28.966Z"}
+{"svrid":"311905034457841664","chid":"311905034457841664","usrid":"234472372491517952","level":"info","message":"Treating '@Modzilla nuke 10000' as a command","timestamp":"2017-05-14T11:19:55.653Z"}
+{"svrid":"311905034457841664","chid":"311905034457841664","usrid":"234472372491517952","level":"info","message":"Treating '@Modzilla  nuke 100000' as a chatterbot prompt","timestamp":"2017-05-14T11:20:15.004Z"}
+{"svrid":"301143748681793536","chid":"313043480312283136","usrid":"190925155596369920","level":"info","message":"Treating '&afk .' as a command","timestamp":"2017-05-14T14:36:41.539Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla af k.' as a chatterbot prompt","timestamp":"2017-05-14T14:36:53.141Z"}
+{"svrid":"297262121220046849","chid":"297264837866815488","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla afk .' as a command","timestamp":"2017-05-14T14:46:19.797Z"}
+{"svrid":"311905034457841664","chid":"311905034457841664","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla prefix &' as a command","timestamp":"2017-05-14T17:17:37.721Z"}
+{"svrid":"311905034457841664","chid":"311905034457841664","usrid":"190925155596369920","level":"info","message":"Treating '&warn @reecej2017 Test warn | Doesnt count as strike' as a command","timestamp":"2017-05-14T17:17:50.000Z"}
+{"svrid":"311905034457841664","chid":"311905034457841664","usrid":"190925155596369920","level":"info","message":"Treating '&warn @reecej2017 | Test warn | Doesnt count as strike' as a command","timestamp":"2017-05-14T17:17:56.890Z"}
+{"svrid":"311905034457841664","chid":"311905034457841664","usrid":"234472372491517952","level":"info","message":"Treating '@Modzilla  nuke 100000' as a chatterbot prompt","timestamp":"2017-05-14T17:37:55.230Z"}
+{"svrid":"311905034457841664","chid":"311905034457841664","usrid":"234472372491517952","level":"info","message":"Treating '@Modzilla nuke 10000' as a chatterbot prompt","timestamp":"2017-05-14T17:38:11.040Z"}
+{"svrid":"297262121220046849","chid":"297264837866815488","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla nuke 3' as a command","timestamp":"2017-05-14T19:14:14.544Z"}
+{"svrid":"301143748681793536","chid":"313043480312283136","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla am I gay?' as a chatterbot prompt","timestamp":"2017-05-14T20:06:08.208Z"}
+{"svrid":"301143748681793536","chid":"313043480312283136","usrid":"190925155596369920","level":"info","message":"Treating '&afk Some fucking war on some game brb' as a command","timestamp":"2017-05-14T20:06:20.200Z"}
+{"svrid":"301143748681793536","chid":"313043480312283136","usrid":"190925155596369920","level":"info","message":"Treating '&debug' as a command","timestamp":"2017-05-14T21:15:27.156Z"}
+{"level":"info","message":"Started bot application","timestamp":"2017-05-15T18:14:27.918Z"}
+{"level":"info","message":"Shards: 1","timestamp":"2017-05-15T18:14:28.556Z"}
+{"level":"info","message":"Shard 1/1 connected: 6 guilds, 196 users","timestamp":"2017-05-15T18:14:28.557Z"}
+{"level":"info","message":"All shards connected","timestamp":"2017-05-15T18:14:28.557Z"}
+{"level":"info","message":"Started the best Discord bot, version Dashy Connect | Modzilla 5.2 | ABCORE4\n     _\t\t\t\t\t\t\t\t\t\t ____\t\t_   \n\t/ \\__\t  _____  ___  ___  _ __ ___   ___| __ )  ___ | |_ \n   / _ \\ \\ /\\ / / _ \\/ __|/ _ \\| '_ ` _ \\ / _ \\  _ \\ / _ \\| __|\n  / ___ \\ V  V /  __/\\__ \\ (_) | | | | | |  __/ |_) | (_) | |_ \n /_/   \\_\\_/\\_/ \\___||___/\\___/|_| |_| |_|\\___|____/ \\___/ \\__|\n","timestamp":"2017-05-15T18:14:28.915Z"}
+{"level":"info","message":"Opened http web interface on 0.0.0.0:8080","timestamp":"2017-05-15T18:14:28.928Z"}
+{"svrid":"301143748681793536","chid":"313043480312283136","usrid":"190925155596369920","level":"info","message":"Treating '&nuke 40' as a command","timestamp":"2017-05-15T18:19:05.759Z"}
+{"svrid":"311905034457841664","chid":"311905034457841664","usrid":"234472372491517952","level":"info","message":"Treating '@Modzilla  nuke 100000' as a chatterbot prompt","timestamp":"2017-05-15T19:11:09.004Z"}
+{"svrid":"311905034457841664","chid":"311905034457841664","usrid":"234472372491517952","level":"info","message":"Treating '&nuke 100000' as a command","timestamp":"2017-05-15T19:11:44.375Z"}
+{"svrid":"311905034457841664","chid":"311905034457841664","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla nuke 10000000000000000000000000000000000000000000000' as a chatterbot prompt","timestamp":"2017-05-15T19:52:26.980Z"}
+{"svrid":"311905034457841664","chid":"311905034457841664","usrid":"190925155596369920","level":"info","message":"Treating '&nuke 10000000000000000000000' as a command","timestamp":"2017-05-15T19:52:38.366Z"}
+{"svrid":"297262121220046849","chid":"297830314041147392","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla mute @MikeBot' as a command","timestamp":"2017-05-15T20:27:13.270Z"}
+{"svrid":"297262121220046849","chid":"297830314041147392","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla clear 8200' as a chatterbot prompt","timestamp":"2017-05-15T20:27:26.628Z"}
+{"svrid":"297262121220046849","chid":"297830314041147392","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla nuke 9200' as a command","timestamp":"2017-05-15T20:27:32.339Z"}
+{"svrid":"297262121220046849","chid":"297830314041147392","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla mute @MikeBot' as a command","timestamp":"2017-05-15T20:27:42.884Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla warn @Superigi | Removing messages without valid reason/not keeping backup of orignal for reasoning' as a command","timestamp":"2017-05-15T20:43:20.291Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla debug' as a command","timestamp":"2017-05-15T20:50:44.370Z"}
+{"message":"Failed to connect to database","name":"MongoError","stack":"MongoError: failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]\n    at Pool.<anonymous> (G:\\TITANBOT-BACKUP\\Modzilla\\theupgrade\\GAwesomeBot-development\\node_modules\\mongodb-core\\lib\\topologies\\server.js:328:35)\n    at emitOne (events.js:96:13)\n    at Pool.emit (events.js:188:7)\n    at Connection.<anonymous> (G:\\TITANBOT-BACKUP\\Modzilla\\theupgrade\\GAwesomeBot-development\\node_modules\\mongodb-core\\lib\\connection\\pool.js:274:12)\n    at Connection.g (events.js:292:16)\n    at emitTwo (events.js:106:13)\n    at Connection.emit (events.js:191:7)\n    at Socket.<anonymous> (G:\\TITANBOT-BACKUP\\Modzilla\\theupgrade\\GAwesomeBot-development\\node_modules\\mongodb-core\\lib\\connection\\connection.js:177:49)\n    at Socket.g (events.js:292:16)\n    at emitOne (events.js:96:13)\n    at Socket.emit (events.js:188:7)\n    at emitErrorNT (net.js:1277:8)\n    at _combinedTickCallback (internal/process/next_tick.js:80:11)\n    at process._tickDomainCallback (internal/process/next_tick.js:128:9)","level":"error","timestamp":"2017-05-15T21:26:08.674Z"}
+{"level":"info","message":"Started bot application","timestamp":"2017-05-15T21:26:26.248Z"}
+{"level":"info","message":"Shards: 1","timestamp":"2017-05-15T21:26:26.859Z"}
+{"level":"info","message":"Shard 1/1 connected: 6 guilds, 195 users","timestamp":"2017-05-15T21:26:26.860Z"}
+{"level":"info","message":"All shards connected","timestamp":"2017-05-15T21:26:26.860Z"}
+{"level":"info","message":"Started the best Discord bot, version Dashy Connect | Modzilla 5.2 | ABCORE4\n     _\t\t\t\t\t\t\t\t\t\t ____\t\t_   \n\t/ \\__\t  _____  ___  ___  _ __ ___   ___| __ )  ___ | |_ \n   / _ \\ \\ /\\ / / _ \\/ __|/ _ \\| '_ ` _ \\ / _ \\  _ \\ / _ \\| __|\n  / ___ \\ V  V /  __/\\__ \\ (_) | | | | | |  __/ |_) | (_) | |_ \n /_/   \\_\\_/\\_/ \\___||___/\\___/|_| |_| |_|\\___|____/ \\___/ \\__|\n","timestamp":"2017-05-15T21:26:27.152Z"}
+{"level":"info","message":"Opened http web interface on 0.0.0.0:8080","timestamp":"2017-05-15T21:26:27.161Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla warn @Superigi | False information getting me in trouble, and generally pissing me off.' as a command","timestamp":"2017-05-15T21:27:11.596Z"}
+{"level":"info","message":"Started bot application","timestamp":"2017-05-16T14:45:11.706Z"}
+{"level":"info","message":"Shards: 1","timestamp":"2017-05-16T14:45:12.352Z"}
+{"level":"info","message":"Shard 1/1 connected: 6 guilds, 194 users","timestamp":"2017-05-16T14:45:12.353Z"}
+{"level":"info","message":"All shards connected","timestamp":"2017-05-16T14:45:12.353Z"}
+{"level":"info","message":"Started the best Discord bot, version Dashy Connect | Modzilla 5.2 | ABCORE4\n     _\t\t\t\t\t\t\t\t\t\t ____\t\t_   \n\t/ \\__\t  _____  ___  ___  _ __ ___   ___| __ )  ___ | |_ \n   / _ \\ \\ /\\ / / _ \\/ __|/ _ \\| '_ ` _ \\ / _ \\  _ \\ / _ \\| __|\n  / ___ \\ V  V /  __/\\__ \\ (_) | | | | | |  __/ |_) | (_) | |_ \n /_/   \\_\\_/\\_/ \\___||___/\\___/|_| |_| |_|\\___|____/ \\___/ \\__|\n","timestamp":"2017-05-16T14:45:12.699Z"}
+{"level":"info","message":"Opened http web interface on 0.0.0.0:8080","timestamp":"2017-05-16T14:45:12.710Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla warn @Superigi | fukin annoying' as a command","timestamp":"2017-05-16T20:17:03.177Z"}
+{"svrid":"311905034457841664","chid":"311905034457841664","usrid":"234472372491517952","level":"info","message":"Treating '&nuke 10000' as a command","timestamp":"2017-05-16T20:45:46.128Z"}
+{"svrid":"311905034457841664","chid":"311905034457841664","usrid":"234472372491517952","level":"info","message":"Treating '&nuke 10000' as a command","timestamp":"2017-05-16T20:46:13.513Z"}
+{"level":"info","message":"Started bot application","timestamp":"2017-05-16T20:57:38.152Z"}
+{"level":"info","message":"Shards: 1","timestamp":"2017-05-16T20:57:39.110Z"}
+{"level":"info","message":"Shard 1/1 connected: 6 guilds, 194 users","timestamp":"2017-05-16T20:57:39.111Z"}
+{"level":"info","message":"All shards connected","timestamp":"2017-05-16T20:57:39.111Z"}
+{"level":"info","message":"Started the best Discord bot, version Dashy Connect | Modzilla 5.2 | ABCORE4\n     _\t\t\t\t\t\t\t\t\t\t ____\t\t_   \n\t/ \\__\t  _____  ___  ___  _ __ ___   ___| __ )  ___ | |_ \n   / _ \\ \\ /\\ / / _ \\/ __|/ _ \\| '_ ` _ \\ / _ \\  _ \\ / _ \\| __|\n  / ___ \\ V  V /  __/\\__ \\ (_) | | | | | |  __/ |_) | (_) | |_ \n /_/   \\_\\_/\\_/ \\___||___/\\___/|_| |_| |_|\\___|____/ \\___/ \\__|\n","timestamp":"2017-05-16T20:57:39.416Z"}
+{"level":"info","message":"Opened http web interface on 0.0.0.0:8080","timestamp":"2017-05-16T20:57:39.426Z"}
+{"level":"info","message":"Started bot application","timestamp":"2017-05-17T14:34:50.315Z"}
+{"level":"info","message":"Shards: 1","timestamp":"2017-05-17T14:34:51.021Z"}
+{"level":"info","message":"Shard 1/1 connected: 6 guilds, 195 users","timestamp":"2017-05-17T14:34:51.022Z"}
+{"level":"info","message":"All shards connected","timestamp":"2017-05-17T14:34:51.022Z"}
+{"level":"info","message":"Started the best Discord bot, version Dashy Connect | Modzilla 5.2 | ABCORE4\n     _\t\t\t\t\t\t\t\t\t\t ____\t\t_   \n\t/ \\__\t  _____  ___  ___  _ __ ___   ___| __ )  ___ | |_ \n   / _ \\ \\ /\\ / / _ \\/ __|/ _ \\| '_ ` _ \\ / _ \\  _ \\ / _ \\| __|\n  / ___ \\ V  V /  __/\\__ \\ (_) | | | | | |  __/ |_) | (_) | |_ \n /_/   \\_\\_/\\_/ \\___||___/\\___/|_| |_| |_|\\___|____/ \\___/ \\__|\n","timestamp":"2017-05-17T14:34:51.394Z"}
+{"level":"info","message":"Opened http web interface on 0.0.0.0:8080","timestamp":"2017-05-17T14:34:51.404Z"}
+{"svrid":"297262121220046849","chid":"297264837866815488","usrid":"234472372491517952","level":"info","message":"User 'reallyedgy' upvoted by user 'Superigi on server 'Decent Server'","timestamp":"2017-05-17T15:02:23.312Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla nuke 5' as a command","timestamp":"2017-05-17T17:00:43.614Z"}
+{"level":"info","message":"Started bot application","timestamp":"2017-05-17T19:06:33.261Z"}
+{"level":"info","message":"Shards: 1","timestamp":"2017-05-17T19:06:33.863Z"}
+{"level":"info","message":"Shard 1/1 connected: 6 guilds, 195 users","timestamp":"2017-05-17T19:06:33.864Z"}
+{"level":"info","message":"All shards connected","timestamp":"2017-05-17T19:06:33.865Z"}
+{"level":"info","message":"Started the best Discord bot, version Dashy Connect | Modzilla 5.2 | ABCORE4\n     _\t\t\t\t\t\t\t\t\t\t ____\t\t_   \n\t/ \\__\t  _____  ___  ___  _ __ ___   ___| __ )  ___ | |_ \n   / _ \\ \\ /\\ / / _ \\/ __|/ _ \\| '_ ` _ \\ / _ \\  _ \\ / _ \\| __|\n  / ___ \\ V  V /  __/\\__ \\ (_) | | | | | |  __/ |_) | (_) | |_ \n /_/   \\_\\_/\\_/ \\___||___/\\___/|_| |_| |_|\\___|____/ \\___/ \\__|\n","timestamp":"2017-05-17T19:06:34.161Z"}
+{"level":"info","message":"Opened http web interface on 0.0.0.0:7777","timestamp":"2017-05-17T19:06:34.239Z"}
+{"svrid":"248723162454294528","level":"info","message":"Cleared stats for server 'The Color Army'","timestamp":"2017-05-17T19:06:34.766Z"}
+{"svrid":"224984352130334720","level":"info","message":"Cleared stats for server 'Former Legion of code'","timestamp":"2017-05-17T19:06:34.881Z"}
+{"svrid":"297262121220046849","level":"info","message":"Cleared stats for server 'Decent Server'","timestamp":"2017-05-17T19:06:35.033Z"}
+{"svrid":"299530521996951552","level":"info","message":"Cleared stats for server 'KiritoCraft.PL'","timestamp":"2017-05-17T19:06:35.227Z"}
+{"svrid":"311905034457841664","level":"info","message":"Cleared stats for server 'Arourafalls'","timestamp":"2017-05-17T19:21:36.283Z"}
+{"svrid":"311905034457841664","chid":"311905034457841664","usrid":"234472372491517952","level":"info","message":"Treating '&nuke 1000' as a command","timestamp":"2017-05-17T20:23:30.949Z"}
+{"svrid":"301143748681793536","chid":"313043480312283136","usrid":"247712249626492928","level":"info","message":"User 'MaybePyxis' upvoted by user 'TheSkyWindz on server 'The United Streetie Country'","timestamp":"2017-05-17T21:14:35.564Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla afk sum1 tri3d to h4x me' as a command","timestamp":"2017-05-17T21:19:42.314Z"}
+{"svrid":"301143748681793536","chid":"313043480312283136","usrid":"247712249626492928","level":"info","message":"User 'MaybePyxis' upvoted by user 'TheSkyWindz on server 'The United Streetie Country'","timestamp":"2017-05-17T21:19:50.571Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla afk .' as a command","timestamp":"2017-05-17T21:21:27.388Z"}
+{"svrid":"301143748681793536","chid":"313043480312283136","usrid":"263284846426587136","level":"info","message":"User 'MaybePyxis' upvoted by user 'Mr.Epic on server 'The United Streetie Country'","timestamp":"2017-05-17T21:24:04.890Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla nuek 1000' as a chatterbot prompt","timestamp":"2017-05-17T21:31:32.521Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla nuke 1000' as a command","timestamp":"2017-05-17T21:31:38.837Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla debug' as a command","timestamp":"2017-05-17T21:53:22.158Z"}
+{"level":"info","message":"Started bot application","timestamp":"2017-05-18T15:12:51.174Z"}
+{"level":"info","message":"Shards: 1","timestamp":"2017-05-18T15:12:51.823Z"}
+{"level":"info","message":"Shard 1/1 connected: 6 guilds, 198 users","timestamp":"2017-05-18T15:12:51.823Z"}
+{"level":"info","message":"All shards connected","timestamp":"2017-05-18T15:12:51.824Z"}
+{"level":"info","message":"Started the best Discord bot, version Dashy Connect | Modzilla 5.2 | ABCORE4\n     _\t\t\t\t\t\t\t\t\t\t ____\t\t_   \n\t/ \\__\t  _____  ___  ___  _ __ ___   ___| __ )  ___ | |_ \n   / _ \\ \\ /\\ / / _ \\/ __|/ _ \\| '_ ` _ \\ / _ \\  _ \\ / _ \\| __|\n  / ___ \\ V  V /  __/\\__ \\ (_) | | | | | |  __/ |_) | (_) | |_ \n /_/   \\_\\_/\\_/ \\___||___/\\___/|_| |_| |_|\\___|____/ \\___/ \\__|\n","timestamp":"2017-05-18T15:12:52.168Z"}
+{"level":"info","message":"Opened http web interface on 0.0.0.0:7777","timestamp":"2017-05-18T15:12:52.178Z"}
+{"svrid":"301143748681793536","level":"info","message":"Cleared stats for server 'The United Streetie Country'","timestamp":"2017-05-18T15:12:53.558Z"}
+{"svrid":"297262121220046849","chid":"297264837866815488","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla debug' as a command","timestamp":"2017-05-18T21:40:53.780Z"}
+{"level":"info","message":"Started bot application","timestamp":"2017-05-19T14:52:39.323Z"}
+{"level":"info","message":"Shards: 1","timestamp":"2017-05-19T14:52:40.080Z"}
+{"level":"info","message":"Shard 1/1 connected: 6 guilds, 194 users","timestamp":"2017-05-19T14:52:40.081Z"}
+{"level":"info","message":"All shards connected","timestamp":"2017-05-19T14:52:40.081Z"}
+{"level":"info","message":"Started the best Discord bot, version Dashy Connect | Modzilla 5.2 | ABCORE4\n     _\t\t\t\t\t\t\t\t\t\t ____\t\t_   \n\t/ \\__\t  _____  ___  ___  _ __ ___   ___| __ )  ___ | |_ \n   / _ \\ \\ /\\ / / _ \\/ __|/ _ \\| '_ ` _ \\ / _ \\  _ \\ / _ \\| __|\n  / ___ \\ V  V /  __/\\__ \\ (_) | | | | | |  __/ |_) | (_) | |_ \n /_/   \\_\\_/\\_/ \\___||___/\\___/|_| |_| |_|\\___|____/ \\___/ \\__|\n","timestamp":"2017-05-19T14:52:40.439Z"}
+{"level":"info","message":"Opened http web interface on 0.0.0.0:7777","timestamp":"2017-05-19T14:52:40.448Z"}
+{"message":"Failed to save server data for voice activity { svrid: '297262121220046849' }","stack":"Error\n    at model.wrappedPointCut [as save] (G:\\TITANBOT-BACKUP\\Modzilla\\theupgrade\\GAwesomeBot-development\\node_modules\\mongoose\\lib\\services\\model\\applyHooks.js:109:29)\n    at Object.stopTiming (G:\\TITANBOT-BACKUP\\Modzilla\\theupgrade\\GAwesomeBot-development\\Modules\\VoiceStatsCollector.js:43:19)\n    at db.servers.findOne (G:\\TITANBOT-BACKUP\\Modzilla\\theupgrade\\GAwesomeBot-development\\Events\\voiceChannelLeave.js:39:25)\n    at Query.<anonymous> (G:\\TITANBOT-BACKUP\\Modzilla\\theupgrade\\GAwesomeBot-development\\node_modules\\mongoose\\lib\\model.js:3737:16)\n    at G:\\TITANBOT-BACKUP\\Modzilla\\theupgrade\\GAwesomeBot-development\\node_modules\\kareem\\index.js:277:21\n    at G:\\TITANBOT-BACKUP\\Modzilla\\theupgrade\\GAwesomeBot-development\\node_modules\\kareem\\index.js:131:16\n    at _combinedTickCallback (internal/process/next_tick.js:73:7)\n    at process._tickDomainCallback (internal/process/next_tick.js:128:9)","name":"VersionError","level":"error","timestamp":"2017-05-19T20:18:35.305Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla nuke 4' as a command","timestamp":"2017-05-19T21:11:36.437Z"}
+{"svrid":"301143748681793536","chid":"313043480312283136","usrid":"190925155596369920","level":"info","message":"Treating '&afk .' as a command","timestamp":"2017-05-19T21:32:57.636Z"}
+{"level":"info","message":"Started bot application","timestamp":"2017-05-20T10:33:02.832Z"}
+{"level":"info","message":"Shards: 1","timestamp":"2017-05-20T10:33:03.459Z"}
+{"level":"info","message":"Shard 1/1 connected: 6 guilds, 196 users","timestamp":"2017-05-20T10:33:03.460Z"}
+{"level":"info","message":"All shards connected","timestamp":"2017-05-20T10:33:03.461Z"}
+{"level":"info","message":"Started the best Discord bot, version Dashy Connect | Modzilla 5.2 | ABCORE4\n     _\t\t\t\t\t\t\t\t\t\t ____\t\t_   \n\t/ \\__\t  _____  ___  ___  _ __ ___   ___| __ )  ___ | |_ \n   / _ \\ \\ /\\ / / _ \\/ __|/ _ \\| '_ ` _ \\ / _ \\  _ \\ / _ \\| __|\n  / ___ \\ V  V /  __/\\__ \\ (_) | | | | | |  __/ |_) | (_) | |_ \n /_/   \\_\\_/\\_/ \\___||___/\\___/|_| |_| |_|\\___|____/ \\___/ \\__|\n","timestamp":"2017-05-20T10:33:03.834Z"}
+{"level":"info","message":"Opened http web interface on 0.0.0.0:7777","timestamp":"2017-05-20T10:33:03.843Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla messages' as a command","timestamp":"2017-05-20T10:53:32.808Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla ban @Superigi Reason' as a command","timestamp":"2017-05-20T11:09:18.180Z"}
+{"level":"info","message":"Started bot application","timestamp":"2017-05-20T11:10:07.165Z"}
+{"level":"info","message":"Shards: 1","timestamp":"2017-05-20T11:10:07.677Z"}
+{"level":"info","message":"Shard 1/1 connected: 6 guilds, 196 users","timestamp":"2017-05-20T11:10:07.678Z"}
+{"level":"info","message":"All shards connected","timestamp":"2017-05-20T11:10:07.678Z"}
+{"level":"info","message":"Started the best Discord bot, version Dashy Connect | Modzilla 5.2 | ABCORE4 | (Also using some gAB modules)\n     _\t\t\t\t\t\t\t\t\t\t ____\t\t_   \n\t/ \\__\t  _____  ___  ___  _ __ ___   ___| __ )  ___ | |_ \n   / _ \\ \\ /\\ / / _ \\/ __|/ _ \\| '_ ` _ \\ / _ \\  _ \\ / _ \\| __|\n  / ___ \\ V  V /  __/\\__ \\ (_) | | | | | |  __/ |_) | (_) | |_ \n /_/   \\_\\_/\\_/ \\___||___/\\___/|_| |_| |_|\\___|____/ \\___/ \\__|\n","timestamp":"2017-05-20T11:10:08.038Z"}
+{"level":"info","message":"Opened http web interface on 0.0.0.0:7777","timestamp":"2017-05-20T11:10:08.049Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla ban @Superigi | reason' as a command","timestamp":"2017-05-20T11:10:28.204Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla ban @Superigi | reason' as a command","timestamp":"2017-05-20T11:10:28.554Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla ban @Superigi | reason' as a command","timestamp":"2017-05-20T11:10:28.750Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla ban @Superigi | reason' as a command","timestamp":"2017-05-20T11:11:39.446Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla unban <@!234472372491517952>' as a command","timestamp":"2017-05-20T11:11:57.529Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla unban 234472372491517952' as a command","timestamp":"2017-05-20T11:12:03.604Z"}
+{"level":"info","message":"Started bot application","timestamp":"2017-05-20T11:15:30.535Z"}
+{"level":"info","message":"Shards: 1","timestamp":"2017-05-20T11:15:31.112Z"}
+{"level":"info","message":"Shard 1/1 connected: 6 guilds, 195 users","timestamp":"2017-05-20T11:15:31.113Z"}
+{"level":"info","message":"All shards connected","timestamp":"2017-05-20T11:15:31.114Z"}
+{"level":"info","message":"Started the best Discord bot, version Dashy Connect | Modzilla 5.2 | ABCORE4 | (Also using some gAB modules)\n     _\t\t\t\t\t\t\t\t\t\t ____\t\t_   \n\t/ \\__\t  _____  ___  ___  _ __ ___   ___| __ )  ___ | |_ \n   / _ \\ \\ /\\ / / _ \\/ __|/ _ \\| '_ ` _ \\ / _ \\  _ \\ / _ \\| __|\n  / ___ \\ V  V /  __/\\__ \\ (_) | | | | | |  __/ |_) | (_) | |_ \n /_/   \\_\\_/\\_/ \\___||___/\\___/|_| |_| |_|\\___|____/ \\___/ \\__|\n","timestamp":"2017-05-20T11:15:31.407Z"}
+{"level":"info","message":"Opened http web interface on 0.0.0.0:7777","timestamp":"2017-05-20T11:15:31.416Z"}
+{"level":"info","message":"Started bot application","timestamp":"2017-05-20T11:18:08.172Z"}
+{"level":"info","message":"Shards: 1","timestamp":"2017-05-20T11:18:08.748Z"}
+{"level":"info","message":"Shard 1/1 connected: 6 guilds, 195 users","timestamp":"2017-05-20T11:18:08.748Z"}
+{"level":"info","message":"All shards connected","timestamp":"2017-05-20T11:18:08.748Z"}
+{"level":"info","message":"Started the best Discord bot, version Dashy Connect | Modzilla 5.2 | ABCORE4 | (Also using some gAB modules)\n     _\t\t\t\t\t\t\t\t\t\t ____\t\t_   \n\t/ \\__\t  _____  ___  ___  _ __ ___   ___| __ )  ___ | |_ \n   / _ \\ \\ /\\ / / _ \\/ __|/ _ \\| '_ ` _ \\ / _ \\  _ \\ / _ \\| __|\n  / ___ \\ V  V /  __/\\__ \\ (_) | | | | | |  __/ |_) | (_) | |_ \n /_/   \\_\\_/\\_/ \\___||___/\\___/|_| |_| |_|\\___|____/ \\___/ \\__|\n","timestamp":"2017-05-20T11:18:09.040Z"}
+{"level":"info","message":"Opened http web interface on 0.0.0.0:7777","timestamp":"2017-05-20T11:18:09.050Z"}
+{"level":"info","message":"Started bot application","timestamp":"2017-05-20T11:19:53.748Z"}
+{"level":"info","message":"Shards: 1","timestamp":"2017-05-20T11:19:54.273Z"}
+{"level":"info","message":"Shard 1/1 connected: 6 guilds, 195 users","timestamp":"2017-05-20T11:19:54.274Z"}
+{"level":"info","message":"All shards connected","timestamp":"2017-05-20T11:19:54.274Z"}
+{"level":"info","message":"Started the best Discord bot, version Dashy Connect | Modzilla 5.2 | ABCORE4 | (Also using some gAB modules)\n     _\t\t\t\t\t\t\t\t\t\t ____\t\t_   \n\t/ \\__\t  _____  ___  ___  _ __ ___   ___| __ )  ___ | |_ \n   / _ \\ \\ /\\ / / _ \\/ __|/ _ \\| '_ ` _ \\ / _ \\  _ \\ / _ \\| __|\n  / ___ \\ V  V /  __/\\__ \\ (_) | | | | | |  __/ |_) | (_) | |_ \n /_/   \\_\\_/\\_/ \\___||___/\\___/|_| |_| |_|\\___|____/ \\___/ \\__|\n","timestamp":"2017-05-20T11:19:54.574Z"}
+{"level":"info","message":"Opened http web interface on 0.0.0.0:7777","timestamp":"2017-05-20T11:19:54.584Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla ban @Codefox' as a command","timestamp":"2017-05-20T11:21:39.355Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla respond' as a chatterbot prompt","timestamp":"2017-05-20T11:25:38.864Z"}
+{"level":"info","message":"Started bot application","timestamp":"2017-05-20T11:28:31.730Z"}
+{"level":"info","message":"Shards: 1","timestamp":"2017-05-20T11:28:32.376Z"}
+{"level":"info","message":"Shard 1/1 connected: 6 guilds, 195 users","timestamp":"2017-05-20T11:28:32.377Z"}
+{"level":"info","message":"All shards connected","timestamp":"2017-05-20T11:28:32.378Z"}
+{"level":"info","message":"Started the best Discord bot, version Dashy Connect | Modzilla 5.2 | ABCORE4 | (Also using some gAB modules)\n     _\t\t\t\t\t\t\t\t\t\t ____\t\t_   \n\t/ \\__\t  _____  ___  ___  _ __ ___   ___| __ )  ___ | |_ \n   / _ \\ \\ /\\ / / _ \\/ __|/ _ \\| '_ ` _ \\ / _ \\  _ \\ / _ \\| __|\n  / ___ \\ V  V /  __/\\__ \\ (_) | | | | | |  __/ |_) | (_) | |_ \n /_/   \\_\\_/\\_/ \\___||___/\\___/|_| |_| |_|\\___|____/ \\___/ \\__|\n","timestamp":"2017-05-20T11:28:32.664Z"}
+{"level":"info","message":"Opened http web interface on 0.0.0.0:7777","timestamp":"2017-05-20T11:28:32.675Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla ban @Codefox' as a command","timestamp":"2017-05-20T11:28:40.279Z"}
+{"svrid":"297262121220046849","chid":"297262121220046849","usrid":"190925155596369920","level":"info","message":"Treating '@Modzilla ban @Codefox' as a command","timestamp":"2017-05-20T11:30:12.572Z"}
+{"level":"info","message":"Started bot application","timestamp":"2017-05-20T11:35:21.547Z"}
+{"level":"info","message":"Shards: 1","timestamp":"2017-05-20T11:35:22.056Z"}
+{"level":"info","message":"Shard 1/1 connected: 6 guilds, 195 users","timestamp":"2017-05-20T11:35:22.057Z"}
+{"level":"info","message":"All shards connected","timestamp":"2017-05-20T11:35:22.057Z"}
+{"level":"info","message":"Started the best Discord bot, version Dashy Connect | Modzilla 5.2 | ABCORE4 | (Also using some gAB modules)\n     _\t\t\t\t\t\t\t\t\t\t ____\t\t_   \n\t/ \\__\t  _____  ___  ___  _ __ ___   ___| __ )  ___ | |_ \n   / _ \\ \\ /\\ / / _ \\/ __|/ _ \\| '_ ` _ \\ / _ \\  _ \\ / _ \\| __|\n  / ___ \\ V  V /  __/\\__ \\ (_) | | | | | |  __/ |_) | (_) | |_ \n /_/   \\_\\_/\\_/ \\___||___/\\___/|_| |_| |_|\\___|____/ \\___/ \\__|\n","timestamp":"2017-05-20T11:35:22.360Z"}
+{"level":"info","message":"Opened http web interface on 0.0.0.0:7777","timestamp":"2017-05-20T11:35:22.369Z"}
