@@ -4,7 +4,11 @@ A custom version of awesomebot
 Welcome to Modzilla, a version of AwesomeBot! 
 This repo will be mostly focused on new features. The official Modzilla instance, will always run the latest code from this repo.
 
-# Quick setup
+# No0b setup
+
+https://github.com/dudeisbrendan03/Dashy-Suite-Launcher
+
+# Quick setup | Manual
 
 1-In a preffered editor (not notepad) edit `Configuration/auth.json` and `Confiuration/config.json`
 
